@@ -1,0 +1,3 @@
+apps:
+  - name: sshd
+    script: /usr/sbin/sshd -D
